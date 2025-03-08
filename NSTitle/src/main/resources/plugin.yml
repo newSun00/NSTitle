@@ -1,0 +1,4 @@
+name: NSTitle
+version: '${project.version}'
+main: org.nano.nstitle.NSTitle
+api-version: '1.21'
