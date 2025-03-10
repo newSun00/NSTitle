@@ -1,9 +1,0 @@
-name: NSTitle
-version: '1.0.0'
-main: org.nano.nstitle.NSTitle
-api-version: '1.21'
-depend:
-  - PlaceholderAPI
-commands:
-  tt:
-    aliases: []
