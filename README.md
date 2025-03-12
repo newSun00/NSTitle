@@ -9,13 +9,16 @@ NSTitle 1.0.0
     - 플레아어가 착용된 칭호를 뺄 때 ( 시스템적으로 빼는 건 인식하지 않습니다. )
 
 Add to pom.xml
+
 	<repositories>
 		<repository>
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
 		</repository>
 	</repositories>
+ 
 Step 2. Add the dependency
+
 	<dependency>
 	    <groupId>com.github.newSun00</groupId>
 	    <artifactId>NSTitle</artifactId>
