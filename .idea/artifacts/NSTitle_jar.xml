@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NSTitle:jar">
+    <output-path>$PROJECT_DIR$/../../../../DEV/1.21 Ro S2/Spawn/plugins</output-path>
+    <root id="archive" name="NSTitle.jar">
+      <element id="module-output" name="NSTitle" />
+    </root>
+  </artifact>
+</component>
